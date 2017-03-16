@@ -22,7 +22,7 @@ The main goals for this program are:
 
 ## Goal Changes
 
-- None
+- In Progress: **Thermometer image will change based on temperature.**
 
 ---
 
