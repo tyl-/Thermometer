@@ -41,11 +41,14 @@ The main goals for this program are:
 
 ---
 
-## Screenshot
-
+## Notes
+- Thermometer image updates every ~1 second.
+- Thermometer adapts to outside temperature based on temperature difference.
+- >20C: 0.50C change; >10C: 0.25C; >5C: 0.15C; <5 0.1C
+- Screenshot:
 ![Screenshot](/screenshots/03-17-17.jpg?raw=true "Screenshot 03-17-17")
 
---
+---
 
 ## Special Thanks To
 
