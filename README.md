@@ -7,10 +7,10 @@ This program simulates a thermometer. A GUI will allow the user to increase and 
 ## Main Goals
 
 The main goals for this program are:
-- In Progress: **GUI.**
-- In Progress: **User can ncrease/decrease temperature.**
-- In Progress: **User can switch temperature units.**
-- In Progress: **Thermometer slowly adapts to outside temperature.**
+- Completed: **GUI.**
+- Completed: **User can ncrease/decrease temperature.**
+- Completed: **User can switch temperature units.**
+- Completed: **Thermometer slowly adapts to outside temperature.**
 
 ## Start Date
 
@@ -18,25 +18,34 @@ The main goals for this program are:
 
 ## Initial Completion Date
 
-- In Progress
+- March 17, 2017
 
 ## Goal Changes
 
-- In Progress: **Thermometer image will change based on temperature.**
+- Completed: **Thermometer image will change based on temperature.**
 
 ---
 
 ## Updates
 
-- Last updated March 16, 2017
+- Last updated March 17, 2017
 
 ---
 
-## Future Changes 
+## Possible Improvements
 
-- None
+- Refactor.
+- Optimizations.
+- Unit Tests.
+- Documentations.
 
 ---
+
+## Screenshot
+
+![Screenshot](/screenshots/03-17-17.jpg?raw=true "Screenshot 03-17-17")
+
+--
 
 ## Special Thanks To
 
