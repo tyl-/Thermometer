@@ -56,7 +56,7 @@ The main goals for this program are:
 - Difference change are <5 = 0.1C; >5 = .15C; >10C = .25C; >20C = 0.5C
 - Screenshot:
 
-![Screenshot](/screenshots/03-17-17.jpg?raw=true "Screenshot 07-18-17")
+![Screenshot](/screenshots/07-18-17.jpg?raw=true "Screenshot 07-18-17")
 
 ---
 
