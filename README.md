@@ -29,11 +29,11 @@ The main goals for this program are:
 ## Updates
 
 - July 18, 2017
-Refactored code and added comments.
-Added status text on the middle panel.
-Changed the panel layout and thermometer image.
-Added visual indicators for outside temperature changes on the thermometer.
-Added celcius markers for the thermometer.
+> - Refactored code and added comments.
+> - Added status text on the middle panel.
+> - Changed the panel layout and thermometer image.
+> - Added visual indicators for outside temperature changes on the thermometer.
+> - Added celcius markers for the thermometer.
 
 ---
 
